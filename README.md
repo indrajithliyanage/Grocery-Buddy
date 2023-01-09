@@ -1,0 +1,1 @@
+A HTML,CSS, and JS based small application to keep track of food items.
